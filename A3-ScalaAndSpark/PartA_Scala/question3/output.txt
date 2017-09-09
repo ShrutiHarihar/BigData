@@ -1,0 +1,6 @@
+
+	OUTPUT
+	
+	Mean Squared Error = 0.5325536447776908
+	
+	Accuracy = 46.744635522230915

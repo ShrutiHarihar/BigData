@@ -1,0 +1,6 @@
+Decision Tree
+Accuracy = 60.46511627906976
+
+
+NaiveNayes
+accuracy: Double = 53.48837209302326

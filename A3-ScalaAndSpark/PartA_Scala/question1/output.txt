@@ -1,0 +1,100 @@
+cluster:0
+2318 Happiness (1998),Comedy
+cluster:0
+2316 Practical Magic (1998),Drama|Romance
+cluster:0
+2317 Alarmist, The (1997),Comedy
+cluster:0
+2314 Beloved (1998),Drama
+cluster:0
+2315 Bride of Chucky (1998),Horror|Thriller
+cluster:1
+558 Pagemaster, The (1994),Action|Adventure|Animation|Children's|Fantasy
+cluster:1
+555 True Romance (1993),Action|Crime|Romance
+cluster:1
+557 Mamma Roma (1962),Drama
+cluster:1
+556 War Room, The (1993),Documentary
+cluster:1
+551 Nightmare Before Christmas, The (1993),Children's|Comedy|Musical
+cluster:2
+1759 Four Days in September (1997),Drama
+cluster:2
+1758 Dangerous Beauty (1998),Drama
+cluster:2
+1756 Prophecy II, The (1998),Horror
+cluster:2
+1755 Shooting Fish (1997),Romance
+cluster:2
+1754 Fallen (1998),Action|Mystery|Thriller
+cluster:3
+3433 Death Wish 4: The Crackdown (1987),Action|Drama
+cluster:3
+3435 Double Indemnity (1944),Crime|Film-Noir
+cluster:3
+3526 Parenthood (1989),Comedy|Drama
+cluster:3
+3527 Predator (1987),Action|Sci-Fi|Thriller
+cluster:3
+3524 Arthur (1981),Comedy|Romance
+cluster:4
+2699 Arachnophobia (1990),Action|Comedy|Sci-Fi|Thriller
+cluster:4
+2697 My Son the Fanatic (1998),Comedy|Drama|Romance
+cluster:4
+2696 Dinner Game, The (Le D?ner de cons) (1998),Comedy
+cluster:4
+2695 Boys, The (1997),Drama
+cluster:4
+2694 Big Daddy (1999),Comedy
+cluster:5
+1970 Nightmare on Elm Street 3: Dream Warriors, A (1987),Horror
+cluster:5
+1968 Breakfast Club, The (1985),Comedy|Drama
+cluster:5
+1969 Nightmare on Elm Street Part 2: Freddy's Revenge, A (1985),Horror
+cluster:5
+1964 Klute (1971),Drama|Mystery
+cluster:5
+1966 Metropolitan (1990),Comedy
+cluster:6
+1117 Eighth Day, The (Le Huiti?me jour ) (1996),Drama
+cluster:6
+1116 Single Girl, A (La Fille Seule) (1995),Drama
+cluster:6
+1361 Paradise Lost: The Child Murders at Robin Hood Hills (1996),Documentary
+cluster:6
+1142 Get Over It (1996),Drama
+cluster:6
+1147 When We Were Kings (1996),Documentary
+cluster:7
+414 Air Up There, The (1994),Comedy
+cluster:7
+415 Another Stakeout (1993),Comedy|Thriller
+cluster:7
+416 Bad Girls (1994),Western
+cluster:7
+417 Barcelona (1994),Comedy|Romance
+cluster:7
+412 Age of Innocence, The (1993),Drama
+cluster:8
+3202 Even Dwarfs Started Small (Auch Zwerge haben klein angefangen) (1971),Drama
+cluster:8
+3215 Voyage of the Damned (1976),Drama
+cluster:8
+3216 Vampyros Lesbos (Las Vampiras) (1970),Horror
+cluster:8
+3212 Born to Win (1971),Drama
+cluster:8
+3229 Another Man's Poison (1952),Crime|Drama
+cluster:9
+3812 Everything You Always Wanted to Know About Sex (1972),Comedy
+cluster:9
+3813 Interiors (1978),Drama
+cluster:9
+3810 White Sands (1992),Drama|Thriller
+cluster:9
+3811 Breaker Morant (1980),Drama|War
+cluster:9
+3816 Official Story, The (La Historia Oficial) (1985),Drama
