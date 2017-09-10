@@ -1,0 +1,11 @@
+businessdata = load 'inputBusiness/business.csv/' as line;
+eachbusinessdata = foreach businessdata generate FLATTEN((tuple(chararray,chararray,chararray))REGEX_EXTRACT_ALL(line,'(.*)\\:\\:(.*)\\:\\:(.*)'))as(businessid,address,categories);
+filterdata = FILTER eachbusinessdata BY(address matches '.*CA.*') AND NOT(address matches '.*Palo Alto.*');
+reviewdata = load 'inputReview/review.csv/' as line2;
+eachreviewdata = foreach reviewdata generate FLATTEN((tuple(chararray,chararray,chararray,float))REGEX_EXTRACT_ALL(line2,'(.*)\\:\\:(.*)\\:\\:(.*)\\:\\:(.*)'))as(reviewid,userid,businessid,rating);
+intermediatedata1 = join filterdata by businessid, reviewdata by businessid;
+intermediatedata2 = GROUP intermediatedata1 by(filterdata::businessid, filterdata::address, filterdata::categories);
+intermediatedata3 = foreach intermediatedata2 generate group,AVG(intermediatedata1.(eachreviewdata::rating))as average;
+intermediatedata4 = order intermediatedata3 by average desc;
+finaloutput = limit intermediatedata4 10;
+dump finaloutput;

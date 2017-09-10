@@ -1,0 +1,1 @@
+Copy paste the scala code in spark-shell to run the programs.
